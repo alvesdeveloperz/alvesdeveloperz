@@ -1,4 +1,67 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFrMHlueGlpZWgxcThlM2RrdTMwMGdhamc0NXNhMzZ6OG1xdzkxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLolp8dtrYCJi/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/bettercallnathan_?igsh=MjZiMG9nYjRnYWhu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="Ko-fi.com/alvesdevz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alvesdeveloperz .alvesdeveloperz &"  />
+</div>
+
+###
+
+<h1 align="center">Olá, meu nome é Alves! 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre mim!</h3>
+
+###
+
+<p align="left">📍Eu sou da cidade Dois Riachos - Alagoas<br><br>- 🔭 Atualmente estou estudando<br>- 📚 Estou aprendendo programação <br>- ⚡ No meu tempo livre eu compilo roms android!</p>
+
+###
+
+<h3 align="left">🛠 Linguagens usadas por mim :</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   Meus status :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=alvesdeveloperz &locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 <!--
 **alvesdeveloperz/alvesdeveloperz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

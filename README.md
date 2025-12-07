@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">📍Eu sou da cidade Dois Riachos - Alagoas<br><br>- 🔭 Atualmente sou um estudante!<br>- 📚 Estou aprendendo programação <br>- ⚡ No meu tempo livre eu compilo roms android!</p>
+<p align="left"> <br><br>- 🔭 Atualmente sou um estudante!<br>- 📚 Estou aprendendo programação <br>- ⚡ No meu tempo livre eu compilo roms android!</p>
 
 ###
 

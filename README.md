@@ -3,10 +3,7 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://www.instagram.com/bettercallnathan_?igsh=MjZiMG9nYjRnYWhu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+e-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="Ko-fi.com/alvesdevz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
@@ -20,16 +17,6 @@
 </div>
 
 ###
-
-<h1 align="center">Olá, meu nome é Nathan! 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  Sobre mim!</h3>
-
-###
-
-<p align="left"> <br><br>- 🔭 Atualmente sou um estudante!<br>- 📚 Estou aprendendo programação <br>- ⚡ No meu tempo livre eu compilo roms android!</p>
 
 ###
 

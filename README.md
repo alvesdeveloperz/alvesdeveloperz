@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens usadas por mim :</h3>
+<h3 align="left">🛠  :</h3>
 
 ###
 
